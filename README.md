@@ -4,13 +4,15 @@
 ---
 
 ## 🌟 About Me  
-- 🌱 Currently learning Fullstack Development (MERN & more)  
+- 🌱 Currently learning Fullstack Development  
 - 💡 Passionate about building efficient and user-friendly applications  
 - 🏆 Open to collaboration on open-source and fullstack projects
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ---
 ## 📈 GitHub Stats  
 <p align="center">
