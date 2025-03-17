@@ -14,13 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ---
-## 📈 GitHub Stats  
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=koushikgptREAL&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikgptREAL&theme=dark" />
-</p>
 
----
 - ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)  
