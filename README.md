@@ -1,9 +1,7 @@
 # 👨‍💻 About Me
 Hi there 👋  
 I'm *Gadiraju Eswar Anantha Krishna Kousik*, a developer exploring AI, Web, and Cloud technologies.  
-
-- 🎓 B.Tech in *Computer Science* at **SR University** (CGPA: 8.00)  
-- 💻 Currently interning as a **Web Development Intern** at *Proxenix Technologies*  
+- 🎓 B.Tech in *Computer Science* at **SR University** (CGPA: 8.00) 
 - 🧠 Interested in AI/ML, NLP, and Reinforcement Learning  
 - ☁ Skilled in *AWS, Azure, Google Cloud, MongoDB*  
 - 🕹 Always learning & building projects at the intersection of AI + Full Stack  
@@ -36,16 +34,6 @@ I'm *Gadiraju Eswar Anantha Krishna Kousik*, a developer exploring AI, Web, and 
 
 ---
 
-## 🚀 Projects
-- [🤖 AI Strategies in Competitive Environment](https://github.com/koushikgptREAL) – MARL system using **GNN + PPO**, enabling decentralized execution & scalable architectures.  
-- [📊 AI Resume Score Checker](https://github.com/koushikgptREAL) – NLP-powered full-stack tool to analyze & optimize resumes; improved scores by avg. **20%**.  
-
----
-
-## 🏅 Certifications
-- **Cisco Networking Academy** – Jr Cyber Security  
-- **ServiceNow CSA** – Certified System Administrator  
-- **AWS / Azure / Google Cloud** – Cloud Projects  
 
 ---
 
