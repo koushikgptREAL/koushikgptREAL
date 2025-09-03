@@ -47,4 +47,7 @@ I'm *Gadiraju Eswar Anantha Krishna Kousik*, a developer exploring AI, Web, and 
 # 🧩 LeetCode Progress
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Eshwar_Koushik?theme=tokyonight)
 
+![LeetCode Solved](https://img.shields.io/badge/Solved%20Problems-250-brightgreen?logo=leetcode&logoColor=white)  
+
+![LeetCode Streak](https://img.shields.io/badge/Highest%20Streak-45%20days-orange?logo=leetcode&logoColor=white)
 ---
